@@ -1,89 +1,121 @@
 # ZERO
 
-> Building from zero. Learning by making.
+> A simple assignment and project tracker designed to help students stay organized, manage deadlines, and keep track of academic progress.
 
 ## Overview
 
-ZERO is an experimental project focused on exploring ideas, building prototypes, and turning concepts into real-world products.
+ZERO is a productivity tool built to centralize assignments, projects, and deadlines in one place.
 
-The goal of this repository is to create, test, and iterate quickly while documenting the process along the way.
+Instead of juggling multiple notes, calendars, and reminders, users can manage their academic workload through a single streamlined interface.
+
+## Problem
+
+Students often struggle with:
+
+- Missing assignment deadlines
+- Tracking multiple projects simultaneously
+- Prioritizing urgent tasks
+- Maintaining visibility over upcoming work
+
+ZERO aims to solve these problems through a simple and focused tracking system.
 
 ## Features
 
-- Clean and scalable project structure
-- Rapid experimentation workflow
-- Easy to extend and customize
-- Open for contributions and improvements
+### Assignment Management
+- Create and manage assignments
+- Add descriptions and requirements
+- Track completion status
+
+### Deadline Tracking
+- Set due dates
+- View upcoming deadlines
+- Identify overdue tasks
+
+### Project Organization
+- Group tasks by project
+- Monitor project progress
+- Manage multiple projects simultaneously
+
+### Status Tracking
+- To Do
+- In Progress
+- Completed
+
+### Dashboard Overview
+- Upcoming deadlines
+- Active projects
+- Pending assignments
+- Completion statistics
+
+## Use Cases
+
+### Student
+Track coursework, assignments, and semester projects.
+
+### Team Project
+Manage shared academic projects and monitor progress.
+
+### Personal Learning
+Organize self-learning tasks, courses, and certifications.
 
 ## Tech Stack
 
-Add your technologies here:
+Add the technologies used in your project:
 
-- HTML / CSS / JavaScript
-- React / Next.js
-- Node.js
-- Python
-- Other tools...
+- Frontend: [Technology]
+- Backend: [Technology]
+- Database: [Technology]
+- Deployment: [Technology]
 
-## Getting Started
+## Installation
 
-### Prerequisites
-
-```bash
-Node.js >= 18
-npm or pnpm
-```
-
-### Installation
+Clone the repository:
 
 ```bash
 git clone https://github.com/krishgupta-me/ZERO.git
+```
 
+Navigate to the project directory:
+
+```bash
 cd ZERO
+```
 
+Install dependencies:
+
+```bash
 npm install
 ```
 
-### Run Locally
+Start the development server:
 
 ```bash
 npm run dev
 ```
 
-## Project Structure
+## Future Improvements
 
-```text
-ZERO/
-├── src/
-├── public/
-├── assets/
-├── components/
-├── pages/
-└── README.md
-```
+- [ ] Calendar integration
+- [ ] Notifications and reminders
+- [ ] Priority levels
+- [ ] Recurring tasks
+- [ ] Team collaboration
+- [ ] Mobile application
+- [ ] Analytics dashboard
 
-## Roadmap
+## Project Goals
 
-- [ ] Initial setup
-- [ ] Core functionality
-- [ ] UI improvements
-- [ ] Documentation
-- [ ] Production deployment
-
-## Contributing
-
-Contributions, issues, and feature requests are welcome.
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Open a Pull Request
+- Improve academic productivity
+- Reduce missed deadlines
+- Simplify project management
+- Create a clean and intuitive user experience
 
 ## Author
 
 **Krish Gupta**
 
-Communication Designer • Builder • Creative Technologist
+Communication Design Student  
+ISDI – Atlas SkillTech University
 
 ## License
 
